@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 📫 How to reach me: Write to this email address carlosalt5126@hotmail.es
+- 🔭 I’m currently working on building a cool game and mantaining my projects.
+- 🌱 I’m currently learning how to use Game Engines, and how to level up my Android & C++ knowledge
+
+[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosACepeda&theme=radical)](https://github.com/CarlosACepeda/github-readme-stats)
+
+
 <!--
 **CarlosACepeda/CarlosACepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
