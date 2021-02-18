@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building a cool game and mantaining my projects.
 - 🌱 I’m currently learning how to use Game Engines, and how to level up my Android & C++ knowledge
 
-[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosACepeda&theme=radical)](https://github.com/CarlosACepeda/github-readme-stats)
+[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosACepeda&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
