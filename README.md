@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 📫 How to reach me: Write to this email address carlosalt5126@hotmail.es
-- 🔭 I’m currently working on building a cool game and mantaining my projects while also working full time
-- 🌱 I’m currently learning how to use Game Engines, and how to level up my Android & C++ knowledge
+- 🔭 I’m currently working on building a cool game and mantaining my projects while also working full time, I'm open to new opportunities though.
+- 🌱 I’m currently improving my knowledge in coding and also my discipline, my biggest enemy. heh.
+- ⚡ Fun fact: I've been working on projects so slowly that I always have to update dependencies each time I get my hands on the projects again. lol. that's changing, fortunately.
 
 [![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosACepeda&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
